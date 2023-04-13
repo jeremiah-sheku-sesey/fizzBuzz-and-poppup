@@ -1,0 +1,28 @@
+.popup-wrapper{
+    background-color: gray;
+    max-width: 400px;
+    margin: auto;
+    display: none;
+}
+
+.popup-close{
+    left: 95%;
+    position: relative;
+    color: white;
+    cursor: pointer;
+}
+
+
+.poppup-content{
+    text-align: center;
+    color: white;
+    
+}
+
+button{
+    background-color: red;
+    color: white;
+    margin: 20px auto;
+    padding: 6px 10px;
+    display: block;
+}
